@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    /*choses font*/
+    text-align: center;
+    /*center alignment*/ 
+    background-color: black;        
+}
+
+canvas {
+    background-color: black;
+}
